@@ -1,5 +1,4 @@
 
-Electronics technician, future electrical engineer, professional procrastinator. I like C. 
 
 <!---
 Cra-ban/Cra-ban is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
