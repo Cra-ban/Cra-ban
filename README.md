@@ -1,4 +1,4 @@
-![Logo](./logo-outlined.svg)
+![Logo](logo-outlined.svg)
 ## Hello there
 
 
