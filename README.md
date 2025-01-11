@@ -1,4 +1,4 @@
-![Logo](logo-outlined.svg)
+![Logo](logo-outlined2.svg)
 ## Hello there
 None of my code is public because I'm embarassed lol.
 <!---
