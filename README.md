@@ -1,4 +1,4 @@
-![Logo](./text.svg)
+![Logo](./title.svg)
 ## Hello there
 
 
