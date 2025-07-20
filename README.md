@@ -1,4 +1,4 @@
-![Logo](logo-extended.svg)
+![Logo](logo-new.svg)
 ## Hello there
 Almost none of my code is public because I'm embarassed lol.
 <!---
